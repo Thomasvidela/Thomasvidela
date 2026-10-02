@@ -31,8 +31,14 @@
 ---
 
 ### 📂 Proyectos Destacados
-* **[VideoJuego-API](https://github.com/Thomasvidela/VideoJuego-API)** - Repositorio enfocado en servicios y lógica de API orientada a videojuegos.
-* **[HFTP-Server](https://github.com/Thomasvidela/HFTP-Server)** - Implementación de un servidor de transferencia/comunicación en red.
+<p align="center">
+  <a href="https://github.com/Thomasvidela/VideoJuego-API" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasvidela&repo=VideoJuego-API&theme=tokyonight&hide_border=true&show_owner=true" />
+  </a>
+  <a href="https://github.com/Thomasvidela/HFTP-Server" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasvidela&repo=HFTP-Server&theme=tokyonight&hide_border=true&show_owner=true" />
+  </a>
+</p>
 
 ---
 

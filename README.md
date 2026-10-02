@@ -1,6 +1,6 @@
 <!-- Cabecera con texto animado -->
 <p align="center">
-  <img src=<img src="[https://readme-typing-svg.demolab.com](https://readme-typing-svg.demolab.com)?..." alt="Typing SVG" /> />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=33FF33&center=true&vCenter=true&width=500&lines=Hola%2C+bienvenido+a+mi+perfil;Estudiante+de+Ciencias+de+la+Computaci%C3%B3n;Apasionado+por+la+tecnolog%C3%ADa+y+el+c%C3%B3digo" alt="Typing SVG" />
 </p>
 
 ---

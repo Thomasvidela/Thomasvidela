@@ -1,6 +1,6 @@
 <!-- Cabecera con texto animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=33FF33&center=true&vCenter=true&width=500&lines=Hola%2C+bienvenido+a+mi+perfil;Desarrollador+de+Software;Apasionado+por+la+tecnolog%C3%ADa+y+el+código" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=33FF33&center=true&vCenter=true&width=500&lines=Hola%2C+bienvenido+a+mi+perfil;Estudiante+de+Ciencias+de+la+Computación;Apasionado+por+la+tecnología+y+el+código" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Stack Tecnológico & Herramientas
+### 🛠️️ Stack Tecnológico & Herramientas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=scala,react,docker,linux,git,vscode,python,fastapi" alt="Skill Icons" />
@@ -29,9 +29,8 @@
 ---
 
 ### 📂 Proyectos Destacados
-*(Aquí puedes mencionar o enlazar tus desarrollos principales)*
-* **[Proyecto 1](https://github.com/Thomasvidela/HFTP-Server)** - Breve descripción de lo que hace y las tecnologías usadas.
-* **[Proyecto 2](https://github.com/Thomasvidela/VideoJuego-API)** - Breve descripción de lo que hace y las tecnologías usadas.
+* **[VideoJuego-API](https://github.com/Thomasvidela/VideoJuego-API)** - Repositorio enfocado en servicios y lógica de API orientada a videojuegos.
+* **[HFTP-Server](https://github.com/Thomasvidela/HFTP-Server)** - Implementación de un servidor de transferencia/comunicación en red.
 
 ---
 
@@ -49,7 +48,10 @@
 ### 📬 Contacto
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
-    <img src="www.linkedin.com/in/thomas-javier-videla-804670250" />
+  <a href="https://www.linkedin.com/in/thomas-javier-videla-804670250/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:thomasvidela16@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

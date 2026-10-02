@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- Cabecera con texto animado -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=33FF33&center=true&vCenter=true&width=500&lines=Hola%2C+bienvenido+a+mi+perfil;Desarrollador+de+Software;Apasionado+por+la+tecnolog%C3%ADa+y+el+código" alt="Typing SVG" />
@@ -16,7 +15,6 @@
 ### 🛠️ Stack Tecnológico & Herramientas
 
 <p align="center">
-  <!-- Puedes ajustar los iconos según tus tecnologías favoritas (ej: scala, react, docker, linux, git, etc.) -->
   <img src="https://skillicons.dev/icons?i=scala,react,docker,linux,git,vscode,python,fastapi" alt="Skill Icons" />
 </p>
 
@@ -30,12 +28,10 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Thomasvidela&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomasvidela&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 📂 Proyectos Destacados
+*(Aquí puedes mencionar o enlazar tus desarrollos principales)*
+* **[Proyecto 1](https://github.com/Thomasvidela/HFTP-Server)** - Breve descripción de lo que hace y las tecnologías usadas.
+* **[Proyecto 2](https://github.com/Thomasvidela/VideoJuego-API)** - Breve descripción de lo que hace y las tecnologías usadas.
 
 ---
 
@@ -48,6 +44,12 @@
 
 </details>
 
+---
+
+### 📬 Contacto
+
 <p align="center">
-  <img src="https://readme-quotes.vercel.app/api?theme=tokyonight&hide_border=true" alt="Cita de programación" />
+  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+    <img src="www.linkedin.com/in/thomas-javier-videla-804670250" />
+  </a>
 </p>

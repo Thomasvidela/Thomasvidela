@@ -47,3 +47,7 @@
 * **Editores y Entornos:** VS Code / Terminal personalizada.
 
 </details>
+
+<p align="center">
+  <img src="https://readme-quotes.vercel.app/api?theme=tokyonight&hide_border=true" alt="Cita de programación" />
+</p>

@@ -3,6 +3,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=33FF33&center=true&vCenter=true&width=500&lines=Hola%2C+bienvenido+a+mi+perfil;Estudiante+de+Ciencias+de+la+Computaci%C3%B3n;Apasionado+por+la+tecnolog%C3%ADa+y+el+c%C3%B3digo" alt="Typing SVG" />
 </p>
 
+<!-- Gifs / Stickers animados -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVuMHFsMzY0c3RqMnhxNWR4eXV6NTk0cXV3ZHRjdXliZmU3andpMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gFmkpNCar7TSoauRUs/giphy.gif" width="120px" alt="Coding animation 1" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjF6eGw0N3IyenQ0ZzZvc3pmeTkwbjU0anNzaTN4MWJpbGx6eWczcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="120px" alt="Coding animation 2" />
+</p>
+
 ---
 
 ### 🚀 Sobre mí

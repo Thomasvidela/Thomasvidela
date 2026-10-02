@@ -5,9 +5,9 @@
 
 <!-- Gifs / Stickers animados -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVuMHFsMzY0c3RqMnhxNWR4eXV6NTk0cXV3ZHRjdXliZmU3andpMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gFmkpNCar7TSoauRUs/giphy.gif" width="120px" alt="Coding animation 1" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVuMHFsMzY0c3RqMnhxNWR4eXV6NTk0cXV3ZHRjdXliZmU3andpMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gFmkpNCar7TSoauRUs/giphy.gif" width="300px" alt="Coding animation 1" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjF6eGw0N3IyenQ0ZzZvc3pmeTkwbjU0anNzaTN4MWJpbGx6eWczcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="120px" alt="Coding animation 2" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjF6eGw0N3IyenQ0ZzZvc3pmeTkwbjU0anNzaTN4MWJpbGx6eWczcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="300px" alt="Coding animation 2" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 
 ### 📊 Visualización de Algoritmos
 <p align="center">
-  <img src="https://i.imgur.com/jyPDiWX.gif" width="600px" alt="Algoritmo de Ordenamiento" />
+  <img src="https://i.imgur.com/jyPDiWX.gif" width="350px" alt="Algoritmo de Ordenamiento" />
 </p>
 
 ---

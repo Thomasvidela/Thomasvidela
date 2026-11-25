@@ -1,0 +1,72 @@
+name: GitHub Metrics (Lowlighter)
+
+on:
+  # Se actualiza automáticamente cada 24 horas
+  schedule:
+    - cron: "0 0 * * *"
+  # Permite ejecutarlo manualmente desde la pestaña "Actions"
+  workflow_dispatch:
+  # También se ejecuta al hacer push en main
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "metrics-*.svg"
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # 1. Panel estilo Consola / Terminal Hacker
+      - name: Generate Terminal Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-terminal.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Thomasvidela
+          template: terminal
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Argentina/Buenos_Aires
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_lines: yes
+          extras_css: |
+            svg {
+              border: 1px solid #00F0FF;
+              border-radius: 8px;
+            }
+
+      # 2. Calendario Isométrico 3D + Hábitos de Código & Lenguajes (Estética Tron)
+      - name: Generate Isometric 3D & Habits Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-isometric.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Thomasvidela
+          template: classic
+          base: ""
+          config_timezone: America/Argentina/Buenos_Aires
+          plugin_isometric: yes
+          plugin_isometric_duration: half-year
+          plugin_habits: yes
+          plugin_habits_from: 100
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
+          plugin_habits_facts: yes
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          extras_css: |
+            svg {
+              background-color: #050814 !important;
+              border: 1px solid #00F0FF;
+              border-radius: 8px;
+              color: #94A3B8 !important;
+            }
+            h2, .field {
+              color: #00F0FF !important;
+            }
+            svg.calendar.isometric .day {
+              stroke: #050814;
+            }

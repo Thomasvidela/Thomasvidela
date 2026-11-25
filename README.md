@@ -1,8 +1,9 @@
-<!-- Cabecera Tron / Cyberpunk Compacta -->
+<!-- Presentación estilo Consola / HUD Futurista (Sin banner superior) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050814,50:0a192f,100:00F0FF&height=130&section=header&text=THOMAS%20VIDELA&fontSize=36&fontColor=00F0FF&fontAlignY=42&desc=%5B%20COMPUTER%20SCIENCE%20//%20SOFTWARE%20%26%20SYSTEMS%20%5D&descSize=13&descAlignY=68&stroke=FF6C11&strokeWidth=1" alt="Tron Header" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=580&height=30&lines=%3E+Estudiante+de+Licenciatura+en+Ciencias+de+la+Computaci%C3%B3n;%3E+Software+Development+%7C+Functional+Programming+%7C+Systems;%3E+Linux+Environment+%7C+Automation+%7C+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1500&color=00F0FF&center=true&vCenter=true&width=600&height=45&lines=THOMAS+VIDELA;%5B+THOMAS+VIDELA+%2F%2F+CS+DEV+%5D" alt="Thomas Videla" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2800&pause=1000&color=FF6C11&center=true&vCenter=true&width=580&height=24&lines=%3E+Licenciatura+en+Ciencias+de+la+Computaci%C3%B3n;%3E+Software+Development+%7C+Functional+Programming+%7C+Systems;%3E+GNU%2FLinux+Environment+%7C+Automation+%7C+Architecture" alt="Subtitle Typing SVG" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/thomas-javier-videla-804670250/" target="_blank">
@@ -84,12 +85,19 @@
 
 ---
 
-### 📊 `// TELEMETRY :: MÉTRICAS & CONSOLA (LOWLIGHTER)`
+### 📊 `// TELEMETRY :: MÉTRICAS, CIUDAD 3D & COMMIT CALENDAR`
 
 <div align="center">
   <!-- Paneles generados automáticamente por GitHub Actions (.github/workflows/metrics.yml) -->
   <img width="48%" valign="top" src="https://raw.githubusercontent.com/Thomasvidela/Thomasvidela/main/metrics-terminal.svg" alt="Terminal Metrics" />
-  <img width="48%" valign="top" src="https://raw.githubusercontent.com/Thomasvidela/Thomasvidela/main/metrics-isometric.svg" alt="Isometric 3D & Habits Metrics" />
+  <img width="48%" valign="top" src="https://raw.githubusercontent.com/Thomasvidela/Thomasvidela/main/metrics-isometric.svg" alt="Isometric 3D City & Commit Calendar" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Gráfico de Actividad de Commits (Estética Tron) -->
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thomasvidela&bg_color=050814&color=00F0FF&line=FF6C11&point=00FF9C&area=true&area_color=00F0FF&hide_border=false&border_color=00F0FF" alt="Commit Activity Graph" />
 </div>
 
 <br />
@@ -98,8 +106,4 @@
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=Thomasvidela&show_icons=true&bg_color=050814&border_color=00F0FF&title_color=00F0FF&icon_color=FF6C11&text_color=94A3B8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomasvidela&layout=compact&langs_count=6&bg_color=050814&border_color=00F0FF&title_color=00F0FF&text_color=94A3B8" alt="Top Languages" />
   <img height="135em" src="https://streak-stats.demolab.com?user=Thomasvidela&background=050814&border=00F0FF&ring=00F0FF&fire=FF6C11&currStreakLabel=00F0FF&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0a192f,100:050814&height=70&section=footer" alt="Tron Footer" />
 </div>

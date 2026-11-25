@@ -24,7 +24,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics-terminal.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
           user: Thomasvidela
           template: terminal
           base: header, activity, community, repositories, metadata
@@ -43,7 +43,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics-isometric.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
           user: Thomasvidela
           template: classic
           base: ""

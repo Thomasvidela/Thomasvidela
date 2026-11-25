@@ -1,80 +1,92 @@
-<!-- Cabecera con texto animado (Español e Inglés) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=33FF33&center=true&vCenter=true&width=600&lines=Bienvenidos+a+mi+perfil;Welcome+to+my+profile;Estudiante+de+Ciencias+de+la+Computaci%C3%B3n;Computer+Science+Student;Apasionado+por+la+tecnolog%C3%ADa+y+el+c%C3%B3digo" alt="Typing SVG" />
-</p>
+<!-- Encabezado Minimalista & Profesional -->
+<div align="center">
+  <h2>Hola, soy Thomas Videla 👋</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=28&lines=Estudiante+de+Licenciatura+en+Ciencias+de+la+Computaci%C3%B3n;Software+Development+%7C+Functional+Programming+%7C+Systems" alt="Typing SVG" />
 
-<!-- Gifs / Stickers animados -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVuMHFsMzY0c3RqMnhxNWR4eXV6NTk0cXV3ZHRjdXliZmU3andpMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gFmkpNCar7TSoauRUs/giphy.gif" width="300px" alt="Coding animation 1" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjF6eGw0N3IyenQ0ZzZvc3pmeTkwbjU0anNzaTN4MWJpbGx6eWczcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="300px" alt="Coding animation 2" />
-</p>
-
----
-
-### 🚀 Sobre mí
-* 💻 Estudiante de la Licenciatura en Ciencias de la Computación.
-* ⚡ Me apasiona el desarrollo de software, la programación funcional y la infraestructura de sistemas.
-* 🛠️ Siempre experimentando con nuevas herramientas, automatizaciones y proyectos tecnológicos.
-
----
-
-### 🛠️️ Stack Tecnológico & Herramientas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=scala,c,cpp,assembly,react,docker,linux,git,vscode,python,fastapi" alt="Skill Icons" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/thomas-javier-videla-804670250/" target="_blank">
+      <img height="20" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:thomasvidela16@gmail.com">
+      <img height="20" src="https://img.shields.io/badge/Email-thomasvidela16%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Thomasvidela">
+      <img height="20" src="https://img.shields.io/github/followers/Thomasvidela?label=Followers&style=flat-square&logo=github&color=181717" alt="GitHub Followers" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 📊 Visualización de Algoritmos
+### ⚡ Sobre mí
+
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <ul>
+        <li>🎓 Estudiante de la <b>Licenciatura en Ciencias de la Computación</b>.</li>
+        <li>💻 Enfocado en el <b>desarrollo de software</b>, la <b>programación funcional</b> y la <b>infraestructura de sistemas</b>.</li>
+        <li>🐧 Usuario entusiasta de entornos <b>GNU/Linux</b> orientados a la productividad y automatización.</li>
+      </ul>
+      <details>
+        <summary><b>🖥️ Mi entorno de desarrollo</b></summary>
+        <br />
+        <ul>
+          <li><b>OS:</b> Ubuntu Linux con entorno personalizado</li>
+          <li><b>Editor:</b> VS Code & Terminal personalizada</li>
+          <li><b>Control de versiones:</b> Git & GitHub</li>
+        </ul>
+      </details>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://i.imgur.com/jyPDiWX.gif" width="220px" alt="Visualización de Algoritmos" /><br>
+      <sub><i>Visualización de algoritmos de ordenamiento</i></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Stack Tecnológico
+
+<div align="center">
+
+| **Lenguajes** | **Frameworks & Web** | **DevOps & Herramientas** |
+| :---: | :---: | :---: |
+| <img height="38" src="https://skillicons.dev/icons?i=c,cpp,scala,python" alt="Lenguajes" /><br><sub>C • C++ • Scala • Python</sub> | <img height="38" src="https://skillicons.dev/icons?i=fastapi,react" alt="Frameworks" /><br><sub>FastAPI • React</sub> | <img height="38" src="https://skillicons.dev/icons?i=linux,docker,git,vscode" alt="Herramientas" /><br><sub>Linux • Docker • Git • VS Code</sub> |
+
+</div>
+
 <p align="center">
-  <img src="https://i.imgur.com/jyPDiWX.gif" width="350px" alt="Algoritmo de Ordenamiento" />
+  <img height="20" src="https://img.shields.io/badge/Assembly-x86%20%2F%20MIPS-2F363D?style=flat-square&logo=assemblyscript&logoColor=58A6FF" alt="Assembly" />
+  <img height="20" src="https://img.shields.io/badge/Paradigma-Funcional%20%26%20Imperativo-2F363D?style=flat-square&logoColor=58A6FF" alt="Paradigmas" />
+  <img height="20" src="https://img.shields.io/badge/Sistemas-Concurrencia%20%26%20Redes-2F363D?style=flat-square&logoColor=58A6FF" alt="Sistemas" />
 </p>
 
 ---
 
 ### 📂 Proyectos Destacados
-<p align="center">
+
+<div align="center">
+  <a href="https://github.com/Thomasvidela/laboratorio-dental">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasvidela&repo=laboratorio-dental&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="laboratorio-dental" />
+  </a>
   <a href="https://github.com/Thomasvidela/VideoJuego-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasvidela&repo=VideoJuego-API&theme=tokyonight&hide_border=true" />
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasvidela&repo=VideoJuego-API&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="VideoJuego-API" />
   </a>
   <a href="https://github.com/Thomasvidela/HFTP-Server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasvidela&repo=HFTP-Server&theme=tokyonight&hide_border=true" />
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasvidela&repo=HFTP-Server&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="HFTP-Server" />
   </a>
-</p>
+</div>
 
 ---
 
-<details>
-<summary>💻 <b>Ver entorno y configuración favorita</b></summary>
+### 📊 Estadísticas de GitHub
 
-* **Sistema operativo:** Ubuntu Linux con personalización orientada a productividad.
-* **Control de versiones:** Git / GitHub.
-* **Editores y Entornos:** VS Code / Terminal personalizada.
-
-</details>
-
----
-
-### 📬 Contacto
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/thomas-javier-videla-804670250/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:thomasvidela16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=Thomasvidela&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomasvidela&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" alt="Top Languages" />
+  <img height="135em" src="https://streak-stats.demolab.com?user=Thomasvidela&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+</div>
